@@ -1,0 +1,17 @@
+Problem(19) --> DB_01_KingNakornchai(1982)_5x7.gtx
+
+Machines     Parts        p         U
+5            7            2         3
+
+1       2    3    5    
+2       1    4    
+3       2    3    
+4       1    4    
+5       1    5    
+6       1    3    4    
+7       3    5  
+
+Omega_1_Machines_List
+1    2
+Omega_2_Machines_List
+4    3  

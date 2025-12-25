@@ -1,0 +1,17 @@
+Problem(46) --> DB_28_PaRkinLi(1997)_6x7.gtx
+
+Machines     Parts        p         U
+6            7            3         3
+
+1       1    4    6    
+2       1    3    5    
+3       4    
+4       1    2    3    
+5       2    3    5    
+6       4    6    
+7       2    3    
+
+Omega_1_Machines_List
+3    4    5
+Omega_2_Machines_List
+2    6    1

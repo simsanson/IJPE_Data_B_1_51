@@ -1,0 +1,20 @@
+Problem(60) --> DB_42_Mahdavi(2007)_Example_2_10x10.gtx
+
+Machines     Parts        p         U
+10           10           3         5
+
+1       1    2    3    9    10   
+2       1    9    10   
+3       4    5    9    10   
+4       6    7    8    9    
+5       7    8    
+6       1    3    9    10   
+7       4    9    
+8       4    5    10   
+9       6    7    8    9    
+10      7    8    
+
+Omega_1_Machines_List
+7   10    2
+Omega_2_Machines_List
+8    9    3

@@ -1,0 +1,18 @@
+Problem(56) --> DB_38_SarkerKhan(2001)_8x8.gtx
+
+Machines     Parts        p         U
+8            8            3         3
+
+1       2    4    
+2       3    7    
+3       1    6    8    
+4       2    3    
+5       2    4    5    6    
+6       1    8    
+7       6    
+8       4    5    
+
+Omega_1_Machines_List
+1    2    7
+Omega_2_Machines_List
+8    4    3
