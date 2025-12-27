@@ -1,0 +1,29 @@
+Problem(63) --> DB_45_FengPheng(2011)_Matrix_3_11x19.gtx
+
+Machines     Parts        p         U
+11           19           3         4
+
+1       2    4    6    
+2       1    4    6    8    
+3       3    4    9    
+4       3    4    9    
+5       7    10   11   
+6       4    5    9    
+7       3    4    
+8       3    4    
+9       3    4    
+10      2    4    6    8    
+11      1    4    6    8    
+12      4    5    7    9    
+13      7    10   11   
+14      3    4    9    
+15      4    
+16      2    
+17      7    
+18      4    8    
+19      4    7    
+
+Omega_1_Machines_List
+4   10    2
+Omega_2_Machines_List
+3   11    6

@@ -1,0 +1,18 @@
+Problem(68) --> DB_50_Won(2024)_6x8.gtx
+
+Machines     Parts        p         U
+6            8            3         2
+
+1       1    4    
+2       3    6    
+3       1    
+4       2    5    
+5       1    4    
+6       2    5    
+7       3    5    6    
+8       1    2    
+
+Omega_1_Machines_List
+1    5    3
+Omega_2_Machines_List
+4    2    6

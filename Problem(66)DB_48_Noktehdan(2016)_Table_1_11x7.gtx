@@ -1,0 +1,17 @@
+Problem(66) --> DB_48_Noktehdan(2016)_Table_1_11x7.gtx
+
+Machines     Parts        p         U
+11           7            3         4
+
+1       1    3    7    11   
+2       1    2    6    
+3       2    6    9    
+4       4    5    10   
+5       3    7    
+6       3    4    11   
+7       5    8    10   
+
+Omega_1_Machines_List
+2    3    5
+Omega_2_Machines_List
+6    7   10
