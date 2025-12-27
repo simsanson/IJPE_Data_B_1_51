@@ -18,7 +18,7 @@ Machines     Parts        p         U
 13      2    11   19   
 14      2    5    14   19   
 15      3    20   
-16      1    14   21   22   31   
+16      1    13   14   21    22   
 17      1    13   22   
 18      6    12   15   18   
 19      1    4    16   20   
@@ -47,4 +47,5 @@ Machines     Parts        p         U
 Omega_1_Machines_List
 15   20   19    7    4    1   10
 Omega_2_Machines_List
+
 18    3   11   23   16   13    9
